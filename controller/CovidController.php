@@ -39,5 +39,17 @@
 			$this->view("covid-09",  array("array" => "Mostrar Videos"));
 		}
 
+		public function video_diez(){
+			$this->view("covid-10",  array("array" => "Mostrar Videos"));
+		}
+
+		public function video_once(){
+			$this->view("covid-11",  array("array" => "Mostrar Videos"));
+		}
+
+		public function video_doce(){
+			$this->view("covid-12",  array("array" => "Mostrar Videos"));
+		}
+
 	}
 ?>

@@ -60,7 +60,7 @@
 		<div class="row">
 			<div class="col-md-12">
 				<div class="hero">
-					<h1><span>Incapacidades </span></h1>
+					<h1><span>Protocolo de prevencion para personal vulnerable </span></h1>
 					<div class="bor"></div>
 					<p></p>
 				</div>
@@ -74,7 +74,7 @@
             <div class="col-md-12">
                 <video height="500" autoplay controls>
                     <!--1. Lavado de manos_Final-->
-                    <source src="view/videos/09.mp4" type="video/mp4">
+                    <source src="view/videos/11.mp4" type="video/mp4">
                 </video>
             </div>
 		</div>
@@ -100,7 +100,7 @@
     <script type="text/javascript">
 		$(document).ready(function(){
   			setTimeout(function(){
-			location.href = "index.php?controller=Covid&action=video_diez";
+			location.href = "index.php?controller=Covid&action=video_doce";
 			}, 60000);
 		});
 	</script>
