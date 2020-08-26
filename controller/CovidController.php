@@ -51,5 +51,9 @@
 			$this->view("covid-12",  array("array" => "Mostrar Videos"));
 		}
 
+		public function video_trece(){
+			$this->view("covid-13",  array("array" => "Mostrar Videos"));
+		}
+
 	}
 ?>

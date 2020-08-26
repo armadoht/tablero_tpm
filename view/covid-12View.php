@@ -100,7 +100,7 @@
     <script type="text/javascript">
 		$(document).ready(function(){
   			setTimeout(function(){
-			location.href = "index.php?controller=index";
+			location.href = "index.php?controller=Covid&action=video_trece";
 			}, 60000);
 		});
 	</script>
