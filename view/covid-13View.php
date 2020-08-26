@@ -98,11 +98,11 @@
 	<script src="view/js/html5shiv.js"></script>
 
     <script type="text/javascript">
-		$(document).ready(function(){
+		/*$(document).ready(function(){
   			setTimeout(function(){
 			location.href = "index.php?controller=index";
 			}, 60000);
-		});
+		});*/
 	</script>
 
 	
