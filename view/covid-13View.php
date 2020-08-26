@@ -27,7 +27,7 @@
 	<link rel="stylesheet" type="text/css" href="view/css/grupak/grupak-blue.css">
 	<!--Favicon Grupak-->
 	<link rel="shortcut icon" href="view/img/favicon/grupak-favicon.ico">
-	<title>Incapacidades</title>
+	<title>Imagen Gupak</title>
 </head>
 <body>
 	<!-- My Header Start-->
@@ -60,7 +60,7 @@
 		<div class="row">
 			<div class="col-md-12">
 				<div class="hero">
-					<h1><span>Protocolo para Hábitos de Higiene </span></h1>
+					<h1><span>Imagen Grupak </span></h1>
 					<div class="bor"></div>
 					<p></p>
 				</div>
