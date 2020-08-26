@@ -72,7 +72,7 @@
 	<div class="container">
 		<div class="row">
             <div class="col-md-12">
-                <video height="500" autoplay controls>
+                <video height="500" controls autoplay loop>
                     <!--1. Lavado de manos_Final-->
                     <source src="view/videos/13.mp4" type="video/mp4">
                 </video>
